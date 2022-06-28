@@ -2,7 +2,7 @@
   "name": "movie-library-cards",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://cezarmontenegro.github.io/MyTunes",
+  "homepage": "https://cezarmontenegro.github.io/project-movies-cards-library/",
   "dependencies": {
     "acorn": ">=7.1.1",
     "gh-pages": "^4.0.0",
