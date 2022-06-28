@@ -2,7 +2,7 @@
 
 ## Descrição
 
-O Movies-cards-library é uma aplicação React que renderiza alguns cards de filmes na tela.
+O Movies-cards-library é uma aplicação React que renderiza cards de filmes na tela.
   
 ## Link da aplicação
 
