@@ -5,6 +5,7 @@
   "homepage": "https://cezarmontenegro.github.io/MyTunes",
   "dependencies": {
     "acorn": ">=7.1.1",
+    "gh-pages": "^4.0.0",
     "minimist": ">=1.2.3",
     "prop-types": "^15.7.2",
     "react": "^16.11.0",
