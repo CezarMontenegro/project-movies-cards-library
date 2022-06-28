@@ -6,7 +6,7 @@ O Movies-cards-library é uma aplicação React que renderiza alguns cards de fi
   
 ## Link da aplicação
 
-  https://cezarmontenegro.github.io/MyTunes
+  https://cezarmontenegro.github.io/project-movies-cards-library/
 
 ## Habilidades desenvolvidas no projeto:
 
